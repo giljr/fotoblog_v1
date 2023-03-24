@@ -1,4 +1,4 @@
-# fotoblog_v1 Episodes#01 DjangoSeries 🤓️
+# fotoblog_v1 Episodes List DjangoSeries 🤓️
 Hi, this is all about [Django](https://www.djangoproject.com/) , a web framework for perfectionists with deadlines!
 
 Django is a full-stack, open-source Python framework designed for efficient web development.
