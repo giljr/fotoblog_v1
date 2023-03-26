@@ -38,6 +38,47 @@ BTW, You're more then welcome to visit my Web Pages:
 
 🤩️[Jungletronics](https://medium.com/jungletronics)🤩️ (Python, C, Arduino, RasPi, PIC, Eagle, Blender, and more) 😍️[KidsTronics](https://medium.com/kidstronics)😍️ (MIT App Inventor, Geogebra, LEGO, Pixy, Unity3D, Arduino For Kids, and more)
 
+## HOW TO Install on VSCode (Version 1.76.1)
+
+Go to your command propt and paste this mini-script:
+
+```
+mkdir fotoblog
+cd fotoblog
+python -m venv ENV
+source ENV/bin/activate
+pip install django
+pip freeze > requirement.txt
+code .
+exit
+```
+Open a Teminal inside VS Code, type:
+
+```
+git branch -M dev
+
+source /home/j3/fotoblog/ENV/bin/activate
+
+python -m pip install pillow
+
+python -m pip install -U mypy
+
+... 
+
+Now in Source Control Tag (Ctlr+Shift+G) clone from:
+
+```
+git@github.com:giljr/fotoblog_v1.git
+
+```
+Again open the Terminal, type:
+
+```
+python manage.py migrate
+
+```
+Congratulations!
+You Django Project is up and running!
 
 ## FotoBlog: Episodes & A List of sites visited for This Project:
 
@@ -62,4 +103,19 @@ FotoBlog - v1.0: from http://jungletronics.com
 
 3-Run the Migration.
 
-### [Episode.03](/../../tags/): soon...
+### [Episode.03](/../../tags/): 
+
+FotoBlog - v1.0: from http://jungletronics.com
+      Third Episode Tutorial - Django Series - Step-by-step list:
+
+1-Explaining how password reset functionality works;
+
+2-Modifying fotoblog/urls.py file;
+
+3-Modifying fotoblog/settings.py file
+
+4-Creating 5 htmls file at templates/registration;
+
+3-Routing at localhost:800/accounts/ dirs.
+
+### [Episode.04](/../../tags/): soon...
