@@ -79,6 +79,7 @@ python manage.py migrate
 ```
 Congratulations!
 You Django Project is up and running!
+```
 
 ## FotoBlog: Episodes & A List of sites visited for This Project:
 
