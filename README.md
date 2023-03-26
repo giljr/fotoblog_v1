@@ -51,4 +51,15 @@ Step-by-Step list of tasks:
     <li>Git repo init. </li>
 </ol>
 
-### [Episode.02](/../../tags/): soon...
+### [Episode.02](/../../tags/):
+
+FotoBlog - v1.0: from http://jungletronics.com
+      Second Episode Tutorial - DjangoSeries - Step-by-step list:
+
+1-Use Custom Model;
+
+2-Config Django to use Custom User;
+
+3-Run the Migration.
+
+### [Episode.03](/../../tags/): soon...
