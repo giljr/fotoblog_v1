@@ -63,7 +63,7 @@ python -m pip install pillow
 
 python -m pip install -U mypy
 
-... 
+```
 
 Now in Source Control Tag (Ctlr+Shift+G) clone from:
 
@@ -79,44 +79,50 @@ python manage.py migrate
 ```
 Congratulations!
 You Django Project is up and running!
-```
+
+For a quick start Django Vscode lesson, go to this [post](https://medium.com/jungletronics/a-django-blog-in-vs-code-fb23335d919). 
 
 ## FotoBlog: Episodes & A List of sites visited for This Project:
 
-### [Episode.01](/../../tags/):
+### [Episode.01](/../../tags/) from http://jungletronics.com
 
 FotoBlog v1.0 - [Episode #01](https://medium.com/jungletronics/a-django-fotoblog-in-vs-code-quick-start-8e6b944c13a)
+```
 Step-by-Step list of tasks:
-<ol>
-    <li>Environment setup; </li>
-    <li>Deploy Project & Apps; </li>
-    <li>Git repo init. </li>
-</ol>
 
-### [Episode.02](/../../tags/):
+	1- Environment setup;
 
-FotoBlog - v1.0: from http://jungletronics.com
-      Second Episode Tutorial - DjangoSeries - Step-by-step list:
+	2 -Deploy Project & Apps;
 
-1-Use Custom Model;
+	3 -Git repo init.
 
-2-Config Django to use Custom User;
+```
+### [Episode.02](/../../tags/) from http://jungletronics.com
 
-3-Run the Migration.
+FotoBlog - v1.0: [Episode #02](https://medium.com/jungletronics/a-django-fotoblog-in-vs-code-custom-user-model-83611e2888d3)
+```
+Step-by-step list of tasks:
 
-### [Episode.03](/../../tags/): 
+	1-Use Custom Model;
 
-FotoBlog - v1.0: from http://jungletronics.com
-      Third Episode Tutorial - Django Series - Step-by-step list:
+	2-Config Django to use Custom User;
 
-1-Explaining how password reset functionality works;
+	3-Run the Migration.
+```
+### [Episode.03](/../../tags/) from http://jungletronics.com: 
 
-2-Modifying fotoblog/urls.py file;
+FotoBlog - v1.0: [Episode #03](https://medium.com/jungletronics/a-django-fotoblog-in-vs-code-self-service-password-reset-b7729588001d) 
+```      
+Step-by-step list of tasks:
 
-3-Modifying fotoblog/settings.py file
+	1-Explaining how password reset functionality works;
 
-4-Creating 5 htmls file at templates/registration;
+	2-Modifying fotoblog/urls.py file;
 
-3-Routing at localhost:800/accounts/ dirs.
+	3-Modifying fotoblog/settings.py file
 
+	4-Creating 5 htmls file at templates/registration;
+
+	3-Routing at localhost:800/accounts/ dirs.
+```
 ### [Episode.04](/../../tags/): soon...
