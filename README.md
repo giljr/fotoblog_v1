@@ -90,11 +90,11 @@ FotoBlog v1.0 - [Episode #01](https://medium.com/jungletronics/a-django-fotoblog
 ```
 Step-by-Step list of tasks:
 
-	1- Environment setup;
+   1- Environment setup;
 
-	2 -Deploy Project & Apps;
+   2- Deploy Project & Apps;
 
-	3 -Git repo init.
+   3- Git repo init.
 
 ```
 ### [Episode.02](/../../tags/) from http://jungletronics.com
@@ -103,11 +103,11 @@ FotoBlog - v1.0: [Episode #02](https://medium.com/jungletronics/a-django-fotoblo
 ```
 Step-by-step list of tasks:
 
-	1-Use Custom Model;
+   1- Use Custom Model;
 
-	2-Config Django to use Custom User;
+   2- Config Django to use Custom User;
 
-	3-Run the Migration.
+   3- Run the Migration.
 ```
 ### [Episode.03](/../../tags/) from http://jungletronics.com: 
 
@@ -115,14 +115,14 @@ FotoBlog - v1.0: [Episode #03](https://medium.com/jungletronics/a-django-fotoblo
 ```      
 Step-by-step list of tasks:
 
-	1-Explaining how password reset functionality works;
+   1- Explaining how password reset functionality works;
 
-	2-Modifying fotoblog/urls.py file;
+   2- Modifying fotoblog/urls.py file;
 
-	3-Modifying fotoblog/settings.py file
+   3- Modifying fotoblog/settings.py file
 
-	4-Creating 5 htmls file at templates/registration;
+   4- Creating 5 htmls file at templates/registration;
 
-	3-Routing at localhost:800/accounts/ dirs.
+   5- Routing at localhost:8000/accounts/ dirs.
 ```
 ### [Episode.04](/../../tags/): soon...
