@@ -74,9 +74,34 @@ git@github.com:giljr/fotoblog_v1.git
 Again open the Terminal, type:
 
 ```
-python manage.py migrate
-
+python manage.py createsuperuser
+(note: use real email ;)
 ```
+Follow the screen instructions
+
+Now to deal with image type:
+```
+pip install pillow
+```
+Then migrate:
+```
+python manage.py migrate
+```
+Finally:
+```
+python manage.py runserver
+```
+One last step to see user in admin console:
+
+open authenticate/admin.py type:
+```
+from django.contrib import admin
+from authenticate.models import User
+
+admin.site.register(User)
+```
+Points browser to localhost:8000/admin
+
 Congratulations!
 You Django Project is up and running!
 
