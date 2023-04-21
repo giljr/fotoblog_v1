@@ -1,0 +1,21 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: [FotoBlog] Password Reset E-mail
+From: webmaster@localhost
+To: giljr.2009@gmail.com
+Date: Fri, 21 Apr 2023 17:16:28 -0000
+Message-ID: <168209738836.31569.7523545442176326702@JAYTHREE>
+
+Hello from FotoBlog!
+
+You're receiving this e-mail because you or someone else has requested a password for your user account.
+It can be safely ignored if you did not request a password reset. Click the link below to reset your password.
+
+http://127.0.0.1:8000/accounts/password/reset/key/6-bn0cvg-e8e2ba05cea422612d505f61abef70b2/
+
+In case you forgot, your username is giljr.
+
+Thank you for using FotoBlog!
+medium.com/jungletronics
+-------------------------------------------------------------------------------

@@ -1,0 +1,16 @@
+{% load i18n %}
+
+{% block content %}
+<h1>Sign Up</h1>
+
+<p>Already have an account? Then please <a href="{{ login_url }}">sign in</a>.</p>
+
+<form  method="post">
+  {% csrf_token %}
+  {{ form.as_p }}
+  {% if redirect_field_value %}
+  {% endif %}
+  <button type="submit">Sign Up</button>
+</form>
+
+{% endblock %}
