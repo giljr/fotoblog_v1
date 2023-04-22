@@ -155,19 +155,19 @@ FotoBlog - v1.0: [Episode #04](https://medium.com/jungletronics/a-django-fotoblo
 ```
 Step-by-step list of tasks:
 
-1-BrainStorming The Project with https://excalidraw.com/
+   1- BrainStorming The Project with https://excalidraw.com/
 
-2-Designing a website - General overview;
+   2- Designing a website - General overview;
 
-3-Describing common practices when it comes to authentication and registration procedures
+   3- Describing common practices when it comes to authentication and registration procedures
 
-4-Modifying fotoblog/settings.py;
+   4- Modifying fotoblog/settings.py;
 
-5-Editing fotoblog/urls.py adn blog/urls.py
+   5- Editing fotoblog/urls.py adn blog/urls.py
 
-6-Working with Templates
+   6- Working with Templates
 
-7-Testing the Authentication System via Provider GiHub
+   7- Testing the Authentication System via Provider GitHub
 ```
 ### [Episode.05](/../../tags/): soon...
 ```
